@@ -1,0 +1,3 @@
+slack:
+  oauth:
+    access: "https://slack.com/api/oauth.access"

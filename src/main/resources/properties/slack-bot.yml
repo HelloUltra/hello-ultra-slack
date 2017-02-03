@@ -1,0 +1,4 @@
+slack:
+  clientId: "xxx"
+  secret: "xxx"
+  authToken: "xxx"
